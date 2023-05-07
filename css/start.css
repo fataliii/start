@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.first{
+   background-image: url(https://startbootstrap.github.io/startbootstrap-clean-blog/assets/img/home-bg.jpg);
+     text-align: center;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.first nav{
+     padding: 24px 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.second h1{
+    color :white;
+    cursor: pointer;
+}
+
+.third .a1{
+    color: white;
+     padding: 8px;
+    margin: 0px 20px 0px 0px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.third .a2{
+    color: white;
+     padding: 8px;
+    margin: 0px 20px 0px 0px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.third .a3{
+    color: white;
+     padding: 8px;
+    margin: 0px 20px 0px 0px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.third .a4{
+    color: white;
+     padding: 8px;
+    margin: 0px 20px 0px 0px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.find h1{
+    font-size: 48px;
+    margin: 0px 0px 8px;
+    color:white;
+    
+    
+}
+.find h3{
+    color:white;
+    font-size: 24px;
+    margin: 10px 0px 0px;
+}
+.find{
+    padding: 10rem;
+}
+.fourth{
+    background-color: white;
+    height: 100vh;
+    
+}
+.fourth h2{
+   text-align: center;
+    font-size: 1.875rem;
+    margin-top: 1.875rem;
+    margin-bottom: 0.625rem;  
+    cursor: pointer;  
+}
+.fourth h2:hover{
+    color: #0085A1;
+}
+.fourth h3{
+    color: black;
+    text-align: center;
+    font-size: calc(1.3rem + 0.6vw);
+     font-weight: 300;
+    margin-bottom: 0.625rem;
+    cursor: pointer;
+}
+.fourth h3:hover{
+      color: #0085A1; 
+}
+.fourth h4{
+    font-size: 1.125rem;
+    font-style: italic;
+    margin-top: 0;
+    color: #6c757d;
+    margin: 2 rem 0;
+    text-align: center;
+}
+.fourth hr{
+   font-size: 1.25rem;
+   margin-top: 1.5rem ;
+    margin-bottom: 1.5rem ;
+
+}
+.fourth h5{
+    font-size: 1.875rem;
+    margin-top: 1.875rem;
+    margin-bottom: 0.625rem;
+    text-align: center;
+    cursor: pointer;
+}
+.fourth h5:hover{
+     color: #0085A1; 
+}
+.fourth h6{
+     font-size: 1.125rem;
+    font-style: italic;
+    margin-top: 0;
+    color: #6c757d;
+    margin: 2 rem 0;
+    text-align: center;
+}
+.fifth h1{
+   text-align: center;
+    font-size: 1.875rem;
+    margin-top: 1.875rem;
+    margin-bottom: 0.625rem;  
+    cursor: pointer;  
+}
+.fifth h1:hover{
+    color: #0085A1;
+}
+.fifth h2{
+    color: black;
+    text-align: center;
+    font-size: 26.11px;
+    margin: 0px 0px 10px;
+     font-weight: 300;
+    margin-bottom: 0.625rem;
+    cursor: pointer;
+}
+.fifth h2:hover{
+      color: #0085A1; 
+
+}
+.fifth h3{
+     font-size: 1.125rem;
+    font-style: italic;
+    margin-top: 0;
+    color: #6c757d;
+    margin: 2 rem 0;
+    text-align: center;
+}
+.sixth h1{
+   text-align: center;
+    font-size: 1.875rem;
+    margin-top: 1.875rem;
+    margin-bottom: 0.625rem;  
+    cursor: pointer;  
+}
+.sixth h1:hover{
+    color: #0085A1;
+}
+.sixth h2{
+    color: black;
+    text-align: center;
+    font-size: 26.11px;
+    margin: 0px 0px 10px;
+     font-weight: 300;
+    margin-bottom: 0.625rem;
+    cursor: pointer;
+}
+.sixth h2:hover{
+      color: #0085A1; 
+}
+.sixth h3{
+     font-size: 1.125rem;
+    font-style: italic;
+    margin-top: 0;
+    color: #6c757d;
+    margin: 2 rem 0;
+    text-align: center;
+}
+.sevens a{
+    color: white;
+    font-size: 14px;
+    background-color: #0085A1;
+    padding: 16px 28px;
+    text-decoration: none;
+    letter-spacing: 0.0625em;
+    text-transform: uppercase ;
+}
+.sevens a:hover{
+    background-color: #006479;
+}
